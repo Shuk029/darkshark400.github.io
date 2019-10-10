@@ -15,10 +15,10 @@
 
 
 			echo 'Vous n\'avez rien a faire ici!';
-
-
+		
+		
 		}
-
+		
 
 		else
 		{
