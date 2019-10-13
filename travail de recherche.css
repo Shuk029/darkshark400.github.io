@@ -1,5 +1,5 @@
 html {
-    font-family: Arial;
+    font-family: Courier New;
 }
 
 body {
@@ -44,10 +44,10 @@ body {
     height: 100px;
 }
 
-    .image2:hover {
+.image2:hover {
         width: 300px;
         height: 600px;
-    }
+}
 
 ul {
     list-style: none;
