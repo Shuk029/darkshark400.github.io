@@ -1,10 +1,11 @@
 html {
-    font-family: Courier New;
+    font-family: Arial;
+    background-image: linear-gradient(60deg, #CDECBF, #509432);
 }
 
 body {
-    background-color: #B6E0A5;
-    margin: 40px;
+    #background-color: #B6E0A5;
+    margin: 40px; 
 }
 
 .span1 {
@@ -71,6 +72,7 @@ ul {
     border-width: 5px;
     color: white;
     font-size: x-large;
+    font-weight: bold;
 }
 
 #div1 {
@@ -81,4 +83,14 @@ ul {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.image3 {
+    border-style: solid;
+    background: forestgreen;
+    border-color: forestgreen;
+    border-radius: 20px;
+    border-width: 5px;
+    width: 100px;
+    height: 100px;
 }
